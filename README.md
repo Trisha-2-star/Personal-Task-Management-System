@@ -1,8 +1,10 @@
-# Personal Task Management System(Flask Web Application)
+# Personal Task Management System
+
+A simple Flask-based personal task management system that allows users to manage daily tasks securely.
 
 ## Description
-This is a full-stack web application developed as part of a Full Stack Developer Intern technical assignment.
-The application allows users to register, log in, and manage their personal tasks securely.
+This project is a Personal Task Management System developed as part of a technical assignment.
+It allows users to manage their daily tasks efficiently after logging in.
 
 ## Purpose
 This project was built to demonstrate full stack development skills including backend logic, database integration, and frontend UI using Flask.
